@@ -2,13 +2,13 @@
   "packagingVersion": "4.0",
   "minDcosReleaseVersion": "1.11",
   "upgradesFrom": [
-    "{{upgrades-from}}"
+    "2.5.0-2.1.0"
   ],
   "downgradesTo": [
-    "{{downgrades-to}}"
+    "2.5.0-2.1.0"
   ],
   "name": "kafka",
-  "version": "{{package-version}}",
+  "version": "2.5.0-2.1.1",
   "maintainer": "support@mesosphere.io",
   "description": "Apache Kafka is used for building real-time data pipelines and streaming apps. It is horizontally scalable, fault-tolerant, wicked fast, and runs in production in thousands of companies.",
   "selected": true,

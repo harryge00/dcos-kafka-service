@@ -4,7 +4,7 @@
       "jre-tar-gz": "{{jre-url}}",
       "libmesos-bundle-tar-gz": "{{libmesos-bundle-url}}",
       "bootstrap-zip": "https://downloads.mesosphere.com/dcos-commons/artifacts/{{dcos-sdk-version}}/bootstrap.zip",
-      "kafka-tgz": "https://downloads.mesosphere.com/kafka/assets/kafka_{{kafka-version}}.tgz",
+      "kafka-tgz": "https://archive.apache.org/dist/kafka/2.1.1/kafka_2.12-2.1.1.tgz",
       "kafka-jre-tar-gz": "{{jre-url}}",
       "kafka-scheduler-zip": "{{artifact-dir}}/kafka-scheduler.zip",
       "kafka-statsd-jar": "https://downloads.mesosphere.com/kafka/assets/kafka-statsd-metrics2-0.5.3.jar",
